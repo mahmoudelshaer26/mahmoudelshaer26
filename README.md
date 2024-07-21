@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmoudelshaer26
+- 👋 Hi, I’m @mahmoudelshaer26 learning data science
 
 <!---
 mahmoudelshaer26/mahmoudelshaer26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
